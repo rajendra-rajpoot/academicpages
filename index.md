@@ -8,7 +8,7 @@ layout: homepage
 
 From 2022-2025, I worked as a Postdoctoral Fellow at TIFR, Bengaluru, at the intersection of geophysical fluid dynamics and computational modeling. My research focused on waves-eddies interactions using pseudo-spectral methods, numerical modeling, turbulence analysis, and reproducible computational workflows.
 
-I hold a Ph.D. in Mechanical Engineering from IIT Indore (2014-2021), where I specialized in heat transfer and bluff-body flow control using computational fluid dynamics (CFD). My doctoral research explored natural, forced, and mixed convection in complex geometries, employing methods such as the finite volume and lattice Boltzmann methods. Much of this work was carried out using in-house Fortran code developed for numerical simulations.
+I hold a Ph.D. in Mechanical Engineering from IIT Indore (2014-2021), where I specialized in heat transfer and bluff-body flow control using computational fluid dynamics (CFD) <a href="./assets/img/bluff_bodies_flows_control_techniques.mp4" target="_blank">(watch here)</a>. My doctoral research explored natural, forced, and mixed convection in complex geometries, employing methods such as the finite volume and lattice Boltzmann methods. Much of this work was carried out using in-house Fortran code developed for numerical simulations.
 
 My teaching career included appointments as Assistant Professor at Technocrats Institute of Technology (Excellence), Bhopal: first from 2011-2012, and later from 2013-2014. These roles gave me valuable exposure to academic life and strengthened my motivation to pursue doctoral research.
 
@@ -27,10 +27,7 @@ Creativity has always played a role in my work, from designing logos to building
 - <p style="color: blue;">Bluff body flows and flow control</p>
 - <p style="color: blue;">Nanofluid-based heat transfer</p>
 - <p style="color: blue;">Flow through porous media</p>
-- <p style="color: blue;">
-  Thermal analysis of solar air heaters —
-  <a href="./assets/img/Solar_energy_presentation_low.mp4" target="_blank">Watch Presentation</a>
-
+- <p style="color: blue;">Thermal analysis of solar air heaters
 <!-- - **Computer Vision:** image recognition, image generation, video captioning - **Machine Learning:** meta-learning, incremental learning, transfer learning -->
 
 ## Education
