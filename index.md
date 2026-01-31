@@ -47,19 +47,19 @@ Creativity has always played a role in my work, from designing logos to building
 (a resource with images and GIFs sourced partly from the internet to clarify ideas)
 
 ### Cross Product
-<img src="./assets/img/DSC154.gif" alt="Animation 2" width="200" style="margin: 4px;" />
+<img src="./assets/img/DSC154.gif" alt="Animation 2" width="400" style="margin: 3px;" />
 In vector calculus, the cross product of two vectors **a × b** produces a third vector that is perpendicular to both **a** and **b**, following the right-hand rule. This GIF shows two vectors lying in a plane, and their cross product emerging orthogonally out of that plane. The magnitude of the cross product corresponds to the area of the parallelogram spanned by the two vectors, while its direction encodes orientation. In daily life, this concept underpins rotational motion and torque: for example, when you push a door at its edge, the force vector and the lever arm vector combine through the cross product to generate a torque vector that causes rotation. Thus, the cross product is not just abstract mathematics; it is the language of 3D geometry, mechanics, and physics, describing how forces and motions interact in space.
 
 ### Trigonometry in Motion
-<img src="./assets/img/DSC887.gif" alt="Animation 1" width="200" style="margin: 4.5px;" />
+<img src="./assets/img/DSC887.gif" alt="Animation 1" width="400" style="margin: 3px;" />
 This visualization links the geometric definitions of sine, cosine, and tangent on the unit circle to their corresponding graphs over the interval 0 to 2π. As the angle θ rotates counterclockwise from the positive x-axis, the horizontal leg of the triangle represents cos θ, the vertical leg represents sin θ, and the tangent line (extending from the angle) illustrates tan θ. Below the circle, the graphs show how these values evolve: sine and cosine oscillate smoothly between −1 and 1, while tangent exhibits vertical asymptotes at odd multiples of π/2, where it becomes undefined. This animation bridges geometry and analysis, helping us understand periodicity, amplitude, and discontinuities — concepts that appear in wave physics, signal processing, and rotational motion in daily life.
 
 ### Tangents in Action:
-<img src="./assets/img/DSC400.gif" alt="Animation 3" width="200" style="margin: 5px;" />
+<img src="./assets/img/DSC400.gif" alt="Animation 3" width="400" style="margin: 3px;" />
 In calculus, the slope of a tangent line represents the derivative, or the instantaneous rate of change of a function at a given point. A positive slope (f'(x) > 0) means the function is rising, much like a car accelerating as you press the pedal or your savings growing with interest; a negative slope (f'(x) < 0) indicates decline, similar to a cooling cup of tea losing heat or a vehicle slowing down when brakes are applied; and a zero slope (f'(x) = 0) corresponds to a flat tangent, marking critical points such as peaks, troughs, or equilibrium states, just as a ball pauses momentarily at the top of its trajectory before falling. These simple slope categories are the foundation of analyzing change in engineering, physics, economics, and daily life, allowing us to predict growth, decay, and balance in systems ranging from fluid flows and heat transfer to financial trends and personal routines.
 
 ### Approximating a Square Wave: Harmonics in Action
-<img src="./assets/img/square_wave_approximation.gif" alt="Animation 3" width="200" style="margin: 6px;" />
+<img src="./assets/img/square_wave_approximation.gif" alt="Animation 3" width="400" style="margin: 3px;" />
 This animation illustrates how a square wave - a discontinuous signal - can be approximated using two mathematical techniques: the Fourier series and the Sigma (Cesàro) approximation.  
 Square wave definition:  
 f(t) = sign(sin t)
@@ -73,7 +73,7 @@ Sigma approximation (Fejér weighted):
 As N increases, both approximations improve, but the Fourier series shows overshoots near discontinuities - the Gibbs phenomenon. The Sigma method smooths these transitions more effectively. Just like square waves shape digital signals in computers and music synthesizers, these approximations show how mathematics powers the technology we use every day.
 
 ### From Time to Frequency: A Transform in Perspective
-<img src="./assets/img/fourier_transform_2D_3D.gif" alt="Animation 3" width="200" style="margin: 3px;" />
+<img src="./assets/img/fourier_transform_2D_3D.gif" alt="Animation 3" width="400" style="margin: 3px;" />
 This animation illustrates how a signal transforms between the time domain and the frequency domain, with the left plot showing a smooth blue waveform gradually giving way to red spikes that reveal its harmonic components, while the right 3D plot separates these two views along a Domain axis to highlight the transition; in signal processing this Fourier transform acts like a prism that decomposes oscillations into their hidden frequencies, and the same principle underpins fluid mechanics and turbulence research, where velocity fluctuations in a turbulent jet or vortex field are analyzed in the frequency domain to uncover energy spectra, identify dominant eddies, and distinguish between large-scale coherent structures and small-scale dissipative motions-whether diagnosing vibrations in engineering systems or studying energy cascades in geophysical flows, the ability to switch between time and frequency perspectives is what turns raw oscillations into physical insight.
 
 
