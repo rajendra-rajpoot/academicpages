@@ -1,5 +1,5 @@
 ---
-layout: homepage (This webpage is under construction...)
+layout: homepage
 ---
 
 <img src="./assets/img/20250624_222423.png" alt="My Research Image" width="600" style="margin-bottom: 40px;" />
