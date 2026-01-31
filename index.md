@@ -6,13 +6,13 @@ layout: homepage
 
 ## About Me
 
-From 2022-2025, I worked as a Postdoctoral Fellow at TIFR-CAM, Bengaluru, at the intersection of geophysical fluid dynamics and computational modeling. My research focused on waves-eddies interactions using pseudo-spectral methods, numerical modeling, turbulence analysis, and reproducible computational workflows.
+From 2022-2025, I worked as a Postdoctoral Fellow at TIFR, Bengaluru, at the intersection of geophysical fluid dynamics and computational modeling. My research focused on waves-eddies interactions using pseudo-spectral methods, numerical modeling, turbulence analysis, and reproducible computational workflows.
 
-I hold a Ph.D. in Mechanical Engineering from IIT Indore (2014-2021), where I specialized in heat transfer and bluff-body flow control using computational fluid dynamics (CFD). My doctoral research explored natural, forced, and mixed convection in complex geometries, employing methods such as the finite volume and lattice Boltzmann approaches.
+I hold a Ph.D. in Mechanical Engineering from IIT Indore (2014-2021), where I specialized in heat transfer and bluff-body flow control using computational fluid dynamics (CFD). My doctoral research explored natural, forced, and mixed convection in complex geometries, employing methods such as the finite volume and lattice Boltzmann methods. Much of this work was carried out using in-house Fortran code developed for numerical simulations.
 
-My teaching career included two appointments as Assistant Professor at Technocrats Institute of Technology (Excellence), Bhopal: first from August 2011 to September 2012, and later from December 2013 to December 2014. These roles gave me valuable exposure to academic life and strengthened my motivation to pursue doctoral research.
+My teaching career included appointments as Assistant Professor at Technocrats Institute of Technology (Excellence), Bhopal: first from 2011-2012, and later from 2013-2014. These roles gave me valuable exposure to academic life and strengthened my motivation to pursue doctoral research.
 
-I completed my M.Tech. in Thermal Engineering at MANIT Bhopal in 2009-2010. My thesis focused on computational fluid dynamics (CFD) modeling of solar air heaters, which introduced me to advanced numerical methods and renewable energy applications. From 2004-2008, I pursued a Bachelor of Engineering (B.E.), which deepened my interest in fluid mechanics and thermal sciences. Before that, I prepared for engineering entrance exams during 2003-2004, after completing my 12th class in 2003 and my 10th class in 2001 under the Madhya Pradesh Board of Secondary Education (MPBSE).
+I completed my M.Tech. in Thermal Engineering at MANIT Bhopal in 2009-2010. My thesis focused on computational fluid dynamics (CFD) modeling of solar air heaters, which introduced me to advanced numerical methods and renewable energy applications. The work later received citations, a recognition that meant a great deal to me as it marked the true beginning of my research career. From 2004-2008, I pursued a Bachelor of Engineering (B.E.), which deepened my interest in fluid mechanics and thermal sciences. Before that, I prepared for engineering entrance exams during 2003-2004, after completing my 12th class in 2003 and my 10th class in 2001 under the Madhya Pradesh Board of Secondary Education (MPBSE).
 
 My academic path spans doctoral and postdoctoral research, teaching, and technical mentoring. I have qualified the GATE exam multiple times, contributed to peer-reviewed journals, and participated in national and international workshops. I am also working on high-performance scientific computing, including the parallelization of simulations using Python MPI.
 
@@ -34,6 +34,7 @@ Creativity has always played a role in my work, from designing logos to building
 
 - **Ph.D.** (December 2014 - November 2021) IIT Indore, Madhya Pradesh, India.
 - **M.Tech** (2009 - 2010) NIT Bhopal, Madhya Pradesh, India.
+- **B.E.** (2004 - 2008), RGPV, Bhopal, Madhya Pradesh, India.
 
 ## Teaching/Research Experience
 
