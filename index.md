@@ -27,8 +27,7 @@ Creativity has always played a role in my work, from designing logos to building
 - <p style="color: blue;">Bluff body flows and flow control</p>
 - <p style="color: blue;">Nanofluid-based heat transfer</p>
 - <p style="color: blue;">Flow through porous media</p>
-- <p style="color: blue;">Thermal analysis of solar air heaters</p>
-[Watch Presentation](./assets/img/MTech_presentation.mp4)
+- <p style="color: blue;">Thermal analysis of solar air heaters — [Watch Presentation](./assets/img/Solar_energy_presentation_low.mp4)</p>
 <!-- - **Computer Vision:** image recognition, image generation, video captioning - **Machine Learning:** meta-learning, incremental learning, transfer learning -->
 
 ## Education
