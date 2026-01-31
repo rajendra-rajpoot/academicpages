@@ -27,7 +27,7 @@ Creativity has always played a role in my work, from designing logos to building
 - <p style="color: blue;">Bluff body flows and flow control</p>
 - <p style="color: blue;">Nanofluid-based heat transfer</p>
 - <p style="color: blue;">Flow through porous media</p>
-<p style="color: blue;">
+- <p style="color: blue;">
   Thermal analysis of solar air heaters —
   <a href="./assets/img/Solar_energy_presentation_low.mp4" target="_blank">Watch Presentation</a>
 </p>
