@@ -37,7 +37,7 @@ Creativity has always played a role in my work, from designing logos to building
 
 ## Teaching/Research Experience
 
-- **Postdoc fellow** (2022 - 2025) TIFR, Karnataka, India.
+- **Postdoctoral fellow** (2022 - 2025) TIFR, Karnataka, India.
 - **Teaching** (2011 - 2014).
   
 {% include_relative _includes/publications.md %}
