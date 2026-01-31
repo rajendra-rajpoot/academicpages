@@ -67,7 +67,8 @@ Fourier series approximation:
 
 Sigma approximation (Fejér weighted):
 `σ_N(t) = Σ (1 - k/(N+1)) * (4/π) * (1/k) * sin(k t),  k = 1,3,5,...,N`
-As N increases, both approximations improve, but the Fourier series shows overshoots near discontinuities — the **Gibbs phenomenon**. The Sigma method smooths these transitions more effectively. Just like square waves shape digital signals in computers and music synthesizers, these approximations show how mathematics powers the technology we use every day.
+
+As N increases, both approximations improve, but the Fourier series shows overshoots near discontinuities - the Gibbs phenomenon. The Sigma method smooths these transitions more effectively. Just like square waves shape digital signals in computers and music synthesizers, these approximations show how mathematics powers the technology we use every day.
 
 <img src="./assets/img/fourier_transform_2D_3D.gif" alt="Animation 3" width="200" style="margin: 3px;" />
 
