@@ -72,8 +72,10 @@ Sigma approximation (Fejér weighted):
 
 As N increases, both approximations improve, but the Fourier series shows overshoots near discontinuities - the Gibbs phenomenon. The Sigma method smooths these transitions more effectively. Just like square waves shape digital signals in computers and music synthesizers, these approximations show how mathematics powers the technology we use every day.
 
-
+### From Time to Frequency: A Transform in Perspective
 <img src="./assets/img/fourier_transform_2D_3D.gif" alt="Animation 3" width="200" style="margin: 3px;" />
+This animation illustrates how a signal transforms between the time domain and the frequency domain, with the left plot showing a smooth blue waveform gradually giving way to red spikes that reveal its harmonic components, while the right 3D plot separates these two views along a Domain axis to highlight the transition; in signal processing this Fourier transform acts like a prism that decomposes oscillations into their hidden frequencies, and the same principle underpins fluid mechanics and turbulence research, where velocity fluctuations in a turbulent jet or vortex field are analyzed in the frequency domain to uncover energy spectra, identify dominant eddies, and distinguish between large-scale coherent structures and small-scale dissipative motions-whether diagnosing vibrations in engineering systems or studying energy cascades in geophysical flows, the ability to switch between time and frequency perspectives is what turns raw oscillations into physical insight.
+
 
 <!-- - **Research Experience** (2022 - till date) 
 
