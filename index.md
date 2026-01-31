@@ -45,11 +45,11 @@ Creativity has always played a role in my work, from designing logos to building
 
 ## Knowledge Section (Source: Internet)
 <img src="./assets/img/DSC154.gif" alt="Animation 2" width="200" style="margin: 3px;" />
-
 <img src="./assets/img/DSC887.gif" alt="Animation 1" width="200" style="margin: 3px;" />
-Markdown: In calculus, the slope of a tangent line represents the derivative, or the instantaneous rate of change of a function at a given point. A positive slope (f'(x) > 0) means the function is rising, much like a car accelerating as you press the pedal or your savings growing with interest; a negative slope (f'(x) < 0) indicates decline, similar to a cooling cup of tea losing heat or a vehicle slowing down when brakes are applied; and a zero slope (f'(x) = 0) corresponds to a flat tangent, marking critical points such as peaks, troughs, or equilibrium states, just as a ball pauses momentarily at the top of its trajectory before falling. These simple slope categories are the foundation of analyzing change in engineering, physics, economics, and daily life, allowing us to predict growth, decay, and balance in systems ranging from fluid flows and heat transfer to financial trends and personal routines.
-
 <img src="./assets/img/DSC400.gif" alt="Animation 3" width="200" style="margin: 3px;" />
+</>
+Tangents in Action: In calculus, the slope of a tangent line represents the derivative, or the instantaneous rate of change of a function at a given point. A positive slope (f'(x) > 0) means the function is rising, much like a car accelerating as you press the pedal or your savings growing with interest; a negative slope (f'(x) < 0) indicates decline, similar to a cooling cup of tea losing heat or a vehicle slowing down when brakes are applied; and a zero slope (f'(x) = 0) corresponds to a flat tangent, marking critical points such as peaks, troughs, or equilibrium states, just as a ball pauses momentarily at the top of its trajectory before falling. These simple slope categories are the foundation of analyzing change in engineering, physics, economics, and daily life, allowing us to predict growth, decay, and balance in systems ranging from fluid flows and heat transfer to financial trends and personal routines.
+</>
 <img src="./assets/img/square_wave_approximation.gif" alt="Animation 3" width="200" style="margin: 3px;" />
 <img src="./assets/img/fourier_transform_2D_3D.gif" alt="Animation 3" width="200" style="margin: 3px;" />
 
