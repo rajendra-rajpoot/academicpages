@@ -45,6 +45,9 @@ Creativity has always played a role in my work, from designing logos to building
 
 ## Knowledge Section (Source: Internet)
 <img src="./assets/img/DSC154.gif" alt="Animation 2" width="200" style="margin: 3px;" />
+</>
+In vector calculus, the cross product of two vectors **A × B** produces a third vector that is perpendicular to both A and B, following the right-hand rule. This GIF shows two vectors lying in a plane, and their cross product emerging orthogonally out of that plane. The magnitude of the cross product corresponds to the area of the parallelogram spanned by the two vectors, while its direction encodes orientation. In daily life, this concept underpins rotational motion and torque: for example, when you push a door at its edge, the force vector and the lever arm vector combine through the cross product to generate a torque vector that causes rotation. Thus, the cross product is not just abstract mathematics; it is the language of 3D geometry, mechanics, and physics, describing how forces and motions interact in space.
+</>
 <img src="./assets/img/DSC887.gif" alt="Animation 1" width="200" style="margin: 3px;" />
 <img src="./assets/img/DSC400.gif" alt="Animation 3" width="200" style="margin: 3px;" />
 </>
