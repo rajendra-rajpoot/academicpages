@@ -6,7 +6,7 @@ layout: homepage
 
 ## About Me
 
-From 2022-2025, I worked as a Postdoctoral Fellow at TIFR, Bengaluru, at the intersection of geophysical fluid dynamics and computational modeling. My research focused on waves-eddies interactions using pseudo-spectral methods, numerical modeling, turbulence analysis, and reproducible computational workflows.
+From 2022-2025, I worked as a Postdoctoral Fellow at TIFR, Bangalore, at the intersection of geophysical fluid dynamics and computational modeling. My research focused on waves-eddies interactions using pseudo-spectral methods, numerical modeling, turbulence analysis, and reproducible computational workflows.
 
 I hold a Ph.D. in Mechanical Engineering from IIT Indore (2014-2021), where I specialized in heat transfer and bluff-body flow control using computational fluid dynamics (CFD) <a href="./assets/img/bluff_bodies_flows_control_techniques.mp4" target="_blank">(watch here)</a>. My doctoral research explored natural, forced, and mixed convection in complex geometries, employing methods such as the finite volume and lattice Boltzmann methods. Much of this work was carried out using in-house Fortran code developed for numerical simulations.
 
