@@ -24,7 +24,7 @@ Creativity has always played a role in my work, from designing logos to building
 - <p style="color: blue;">Geophysical fluid dynamics (GFD)</p> 
   - <p style="color: blue;">Waves-eddies interactions in the ocean</p>
 - <p style="color: blue;">Computational fluid dynamics</p>
-  - <p style="color: blue;">Bluff body flows at low _Re_ </p>
+  - <p style="color: blue;">Bluff body flows at low Re </p>
     - <p style="color: blue;">Fluid flow behavior and heat transfer </p>
     - <p style="color: blue;">Nanofluid-based heat transfer</p>    
     - <p style="color: blue;">Flow control</p>
@@ -42,7 +42,7 @@ Creativity has always played a role in my work, from designing logos to building
 
 - [x] **Teaching** (2011 - 2014).
 - [x] **Postdoctoral fellow** (2022 - 2025) TIFR, Bangalore, Karnataka, India.
-- [ ] Loading.... :electron:
+- [ ] Loading.... ✨
   
 {% include_relative _includes/publications.md %}
 
