@@ -24,8 +24,8 @@ Creativity has always played a role in my work, from designing logos to building
 - <p style="color: blue;">Geophysical fluid dynamics (GFD)</p> 
   - <p style="color: blue;">Waves-eddies interactions in the ocean</p>
 - <p style="color: blue;">Computational fluid dynamics</p>
-  - <p style="color: blue;">Bluff body flows</p>
-    - <p style="color: blue;">Fluid flow behavior and heat transfer at low _Re_</p>
+  - <p style="color: blue;">Bluff body flows at low _Re_ </p>
+    - <p style="color: blue;">Fluid flow behavior and heat transfer </p>
     - <p style="color: blue;">Nanofluid-based heat transfer</p>    
     - <p style="color: blue;">Flow control</p>
       - <p style="color: blue;">Flow through porous media</p>
