@@ -21,12 +21,14 @@ Creativity has always played a role in my work, from designing logos to building
 ## Research Interests
 
 <img src="./assets/img/20250622_193947.png" alt="My Research  Interests" width="300" style="margin-bottom: 40px;" />
-- <p style="color: blue;">Geophysical fluid dynamics</p> 
-  - <p style="color: blue;">Wave-vortex interactions in the ocean</p>
+- <p style="color: blue;">Geophysical fluid dynamics (GFD)</p> 
+  - <p style="color: blue;">Waves-eddies interactions in the ocean</p>
 - <p style="color: blue;">Computational fluid dynamics</p>
-  - <p style="color: blue;">Bluff body flows and flow control</p>
-    - <p style="color: blue;">Nanofluid-based heat transfer</p>
-    - <p style="color: blue;">Flow through porous media</p>
+  - <p style="color: blue;">Bluff body flows</p>
+    - <p style="color: blue;">Fluid flow behavior and heat transfer at low _Re_</p>
+    - <p style="color: blue;">Nanofluid-based heat transfer</p>    
+    - <p style="color: blue;">Flow control</p>
+      - <p style="color: blue;">Flow through porous media</p>
   - <p style="color: blue;">Thermal analysis of solar air heaters
 <!-- - **Computer Vision:** image recognition, image generation, video captioning - **Machine Learning:** meta-learning, incremental learning, transfer learning -->
 
@@ -38,8 +40,9 @@ Creativity has always played a role in my work, from designing logos to building
 
 ## Teaching/Research Experience
 
-- **Postdoctoral fellow** (2022 - 2025) TIFR, Bangalore, Karnataka, India.
-- **Teaching** (2011 - 2014).
+- [x] **Teaching** (2011 - 2014).
+- [x] **Postdoctoral fellow** (2022 - 2025) TIFR, Bangalore, Karnataka, India.
+- [ ] Loading....:electron:
   
 {% include_relative _includes/publications.md %}
 
