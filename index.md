@@ -8,13 +8,13 @@ layout: homepage
 
 From 2022-2025, I worked as a Postdoctoral Fellow at TIFR, Bangalore, at the intersection of geophysical fluid dynamics and computational modeling. My research focused on waves-eddies interactions using pseudo-spectral methods, numerical modeling, turbulence analysis, and reproducible computational workflows.
 
-I hold a Ph.D. in Mechanical Engineering from IIT Indore (2014-2021), where I specialized in heat transfer and bluff-body flow control using computational fluid dynamics (CFD) <a href="./assets/img/bluff_bodies_flows_control_techniques.mp4" target="_blank">(watch here)</a>. My doctoral research explored natural, forced, and mixed convection in complex geometries, employing methods such as the finite volume and lattice Boltzmann methods. Much of this work was carried out using in-house Fortran code developed for numerical simulations.
+I hold a Ph.D. in Mechanical Engineering from IIT Indore (2021), where I specialized in heat transfer and bluff-body flow control using computational fluid dynamics (CFD) <a href="./assets/img/bluff_bodies_flows_control_techniques.mp4" target="_blank">(watch here)</a>. My doctoral research explored natural, forced, and mixed convection in complex geometries, employing methods such as the finite volume and lattice Boltzmann methods. Much of this work was carried out using in-house Fortran code developed for numerical simulations.
 
 My teaching career included appointments as Assistant Professor at Technocrats Institute of Technology (Excellence), Bhopal: first from 2011-2012, and later from 2013-2014. These roles gave me valuable exposure to academic life and strengthened my motivation to pursue doctoral research.
 
-I completed my M.Tech. in Thermal Engineering at MANIT Bhopal in 2009-2010. My thesis focused on computational fluid dynamics (CFD) modeling of solar air heaters <a href="./assets/img/Solar_energy_presentation_low.mp4" target="_blank">(watch here)</a>, which introduced me to advanced numerical methods and renewable energy applications. The work later received citations, a recognition that meant a great deal to me as it marked the true beginning of my research career. From 2004-2008, I pursued a Bachelor of Engineering (B.E.), which deepened my interest in fluid mechanics and thermal sciences. Before that, I prepared for engineering entrance exams during 2003-2004, after completing my 12th class in 2003 and my 10th class in 2001 under the Madhya Pradesh Board of Secondary Education (MPBSE).
+I completed my M.Tech. in Thermal Engineering at MANIT Bhopal in 2010. My thesis focused on computational fluid dynamics (CFD) modeling of solar air heaters <a href="./assets/img/Solar_energy_presentation_low.mp4" target="_blank">(watch here)</a>, which introduced me to advanced numerical methods and renewable energy applications. The work later received citations, a recognition that meant a great deal to me as it marked the true beginning of my research career. From 2004-2008, I pursued a Bachelor of Engineering (B.E.), which deepened my interest in fluid mechanics and thermal sciences. 
 
-My academic path spans doctoral and postdoctoral research, teaching, and technical mentoring. I have qualified the GATE exam multiple times, contributed to peer-reviewed journals, and participated in national and international workshops. I am also working on high-performance scientific computing, including the parallelization of simulations using Python MPI.
+My academic path spans doctoral and postdoctoral research, teaching, and technical mentoring. I have qualified for the GATE exam multiple times, contributed to peer-reviewed journals, and participated in national and international workshops. I am also working on high-performance scientific computing, including the parallelization of simulations using Python MPI.
 
 Creativity has always played a role in my work, from designing logos to building academic websites and contributing to science outreach. This page offers a glimpse; the full story brings together research, teaching, design, and discovery.
 
@@ -22,7 +22,7 @@ Creativity has always played a role in my work, from designing logos to building
 
 <img src="./assets/img/20250622_193947.png" alt="My Research  Interests" width="600" style="margin-bottom: 40px;" />
 - <p style="color: blue;">Geophysical fluid dynamics</p> 
-- <p style="color: blue;">Wave-vortex interactions in the ocean</p>
+  - <p style="color: blue;">Wave-vortex interactions in the ocean</p>
 - <p style="color: blue;">Computational fluid dynamics</p>
 - <p style="color: blue;">Bluff body flows and flow control</p>
 - <p style="color: blue;">Nanofluid-based heat transfer</p>
