@@ -63,14 +63,20 @@ In calculus, the slope of a tangent line represents the derivative, or the insta
 This animation illustrates how a square wave - a discontinuous signal - can be approximated using two mathematical techniques: the Fourier series and the Sigma (Cesàro) approximation.  
 Square wave definition:  
 f(t) = sign(sin t)
+A function that alternates between +1 and −1, capturing the “on/off” nature of a square signal.
 
-Fourier series approximation:  
+Fourier series approximation: Any periodic function can be written as a sum of sines and cosines. For an odd square wave, only odd sine terms remain.
+
 fₙ(t) = Σ (4/π) · (1/k) · sin(k·t),   k = 1,3,5,…,N
+Adding more odd harmonics sharpens the edges, but introduces Gibbs overshoot near discontinuities.
 
 Sigma approximation (Fejér weighted):  
 σₙ(t) = Σ (1 − k/(N+1)) · (4/π) · (1/k) · sin(k·t),   k = 1,3,5,…,N
+Weighted averaging smooths oscillations, giving a closer match to the ideal square wave.
 
-As N increases, both approximations improve, but the Fourier series shows overshoots near discontinuities - the Gibbs phenomenon. The Sigma method smooths these transitions more effectively. Just like square waves shape digital signals in computers and music synthesizers, these approximations show how mathematics powers the technology we use every day.
+General relation: ‖f(t) − fₙ(t)‖ → 0 as N → ∞, both fₙ(t) and σₙ(t) converge toward f(t), showing how infinite harmonics reconstruct the discontinuous square wave. As N increases, both approximations improve. 
+
+**Practical link**: This process mirrors real signals — for example, digital audio or square electrical pulses are never perfectly sharp, but approximated by finite harmonics. Engineers use Fourier analysis to understand bandwidth, filter design, and how sharp transitions carry high‑frequency energy.
 
 ### From Time to Frequency: A Transform in Perspective
 <img src="./assets/img/fourier_transform_2D_3D.gif" alt="Animation 3" width="510" style="margin: 3px;" />
