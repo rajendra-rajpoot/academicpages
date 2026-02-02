@@ -20,7 +20,7 @@ Creativity has always played a role in my work, from designing logos to building
 
 ## Research Interests
 
-<img src="./assets/img/20250622_193947.png" alt="My Research  Interests" width="600" style="margin-bottom: 40px;" />
+<img src="./assets/img/20250622_193947.png" alt="My Research  Interests" width="300" style="margin-bottom: 40px;" />
 - <p style="color: blue;">Geophysical fluid dynamics</p> 
   - <p style="color: blue;">Wave-vortex interactions in the ocean</p>
 - <p style="color: blue;">Computational fluid dynamics</p>
@@ -32,13 +32,13 @@ Creativity has always played a role in my work, from designing logos to building
 
 ## Education
 
-- **Ph.D.** (December 2014 - November 2021) IIT Indore, Madhya Pradesh, India.
-- **M.Tech** (2009 - 2010) NIT Bhopal, Madhya Pradesh, India.
-- **B.E.** (2004 - 2008), RGPV, Bhopal, Madhya Pradesh, India.
+- **Ph.D.** (November 2021) IIT Indore, Madhya Pradesh, India.
+- **M.Tech** (2010) NIT Bhopal, Madhya Pradesh, India.
+- **B.E.** (2008), RGPV, Bhopal, Madhya Pradesh, India.
 
 ## Teaching/Research Experience
 
-- **Postdoctoral fellow** (2022 - 2025) TIFR, Karnataka, India.
+- **Postdoctoral fellow** (2022 - 2025) TIFR, Bangalore, Karnataka, India.
 - **Teaching** (2011 - 2014).
   
 {% include_relative _includes/publications.md %}
@@ -52,31 +52,30 @@ In vector calculus, the cross product of two vectors **a × b** produces a third
 
 ### Trigonometry in Motion
 <img src="./assets/img/DSC887.gif" alt="Animation 1" width="350" style="margin: 3px;" />
-This visualization links the geometric definitions of sine, cosine, and tangent on the unit circle to their corresponding graphs over the interval 0 to 2π. As the angle θ rotates counterclockwise from the positive x-axis, the horizontal leg of the triangle represents cos θ, the vertical leg represents sin θ, and the tangent line (extending from the angle) illustrates tan θ. Below the circle, the graphs show how these values evolve: sine and cosine oscillate smoothly between −1 and 1, while tangent exhibits vertical asymptotes at odd multiples of π/2, where it becomes undefined. This animation bridges geometry and analysis, helping us understand periodicity, amplitude, and discontinuities — concepts that appear in wave physics, signal processing, and rotational motion in daily life.
+This visualization links the geometric definitions of sine, cosine, and tangent on the unit circle to their corresponding graphs over the interval 0 to 2π. As the angle θ rotates counterclockwise from the positive x-axis, the horizontal leg of the triangle represents cos θ, the vertical leg represents sin θ, and the tangent line (extending from the angle) illustrates tan θ. Below the circle, the graphs show how these values evolve: sine and cosine oscillate smoothly between -1 and 1, while tangent exhibits vertical asymptotes at odd multiples of π/2, where it becomes undefined. This animation bridges geometry and analysis, helping us understand periodicity, amplitude, and discontinuities; concepts that appear in wave physics, signal processing, and rotational motion in daily life.
 
 ### Tangents in Action
 <img src="./assets/img/DSC400.gif" alt="Animation 3" width="350" style="margin: 3px;" />
-In calculus, the slope of a tangent line represents the derivative, or the instantaneous rate of change of a function at a given point. A positive slope (f'(x) > 0) means the function is rising, much like a car accelerating as you press the pedal or your savings growing with interest; a negative slope (f'(x) < 0) indicates decline, similar to a cooling cup of tea losing heat or a vehicle slowing down when brakes are applied; and a zero slope (f'(x) = 0) corresponds to a flat tangent, marking critical points such as peaks, troughs, or equilibrium states, just as a ball pauses momentarily at the top of its trajectory before falling. These simple slope categories are the foundation of analyzing change in engineering, physics, economics, and daily life, allowing us to predict growth, decay, and balance in systems ranging from fluid flows and heat transfer to financial trends and personal routines.
+In calculus, the slope of a tangent line represents the derivative (f(x) → f'(x)), or the instantaneous rate of change of a function at a given point. A positive slope (f'(x) > 0) means the function is rising, much like a car accelerating as you press the pedal or your savings growing with interest; a negative slope (f'(x) < 0) indicates decline, similar to a cooling cup of tea losing heat or a vehicle slowing down when brakes are applied. A zero slope (f'(x) = 0) corresponds to a flat tangent, marking critical points such as peaks, troughs, or equilibrium states, just as a ball pauses momentarily at the top of its trajectory before falling. These simple slope categories are the foundation of analyzing change in engineering, physics, economics, and daily life, allowing us to predict growth, decay, and balance in systems ranging from fluid flows and heat transfer to financial trends and personal routines.
 
 ### Approximating a Square Wave: Harmonics in Action
 <img src="./assets/img/square_wave_approximation.gif" alt="Animation 3" width="480" style="margin: 3px;" />
 This animation illustrates how a square wave - a discontinuous signal - can be approximated using two mathematical techniques: the Fourier series and the Sigma (Cesàro) approximation.  
-Square wave definition:  
-f(t) = sign(sin t)
-A function that alternates between +1 and −1, capturing the “on/off” nature of a square signal.
+Square wave definition:  f(t) = sign(sin t).
+A function that alternates between +1 and -1, capturing the “on/off” nature of a square signal.
 
 Fourier series approximation: Any periodic function can be written as a sum of sines and cosines. For an odd square wave, only odd sine terms remain.
 
-fₙ(t) = Σ (4/π) · (1/k) · sin(k·t),   k = 1,3,5,…,N
+fₙ(t) = Σ (4/π) · (1/k) · sin(k·t),   k = 1,3,5,…,N. 
 Adding more odd harmonics sharpens the edges, but introduces Gibbs overshoot near discontinuities.
 
 Sigma approximation (Fejér weighted):  
-σₙ(t) = Σ (1 − k/(N+1)) · (4/π) · (1/k) · sin(k·t),   k = 1,3,5,…,N
+σₙ(t) = Σ (1 − k/(N+1)) · (4/π) · (1/k) · sin(k·t),   k = 1,3,5,…,N.
 Weighted averaging smooths oscillations, giving a closer match to the ideal square wave.
 
 General relation: ‖f(t) − fₙ(t)‖ → 0 as N → ∞, both fₙ(t) and σₙ(t) converge toward f(t), showing how infinite harmonics reconstruct the discontinuous square wave. As N increases, both approximations improve. 
 
-**Practical link**: This process mirrors real signals — for example, digital audio or square electrical pulses are never perfectly sharp, but approximated by finite harmonics. Engineers use Fourier analysis to understand bandwidth, filter design, and how sharp transitions carry high‑frequency energy.
+Practical link: This process mirrors real signals — for example, digital audio or square electrical pulses are never perfectly sharp, but approximated by finite harmonics. Engineers use Fourier analysis to understand bandwidth, filter design, and how sharp transitions carry high‑frequency energy.
 
 ### From Time to Frequency: A Transform in Perspective
 <img src="./assets/img/fourier_transform_2D_3D.gif" alt="Animation 3" width="510" style="margin: 3px;" />
