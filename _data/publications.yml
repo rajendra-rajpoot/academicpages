@@ -4,7 +4,7 @@ main:
     pdf: https://doi.org/10.1017/jfm.2024.854   # replace xxx with the actual DOI
     notes: Journal article (4/4)
 
-  - title: Rajpoot, R. S., Anirudh, K., & Dhinakaran, S. (2021). Numerical investigation of unsteady flow across tandem square cylinders near a moving wall at _Re_ = 100. Case Studies in Thermal Engineering, 26, 101042.
+  - title: Rajpoot, R. S., Anirudh, K., & Dhinakaran, S. (2021). Numerical investigation of unsteady flow across tandem square cylinders near a moving wall at *Re* = 100. Case Studies in Thermal Engineering, 26, 101042.
     pdf: https://doi.org/10.1016/j.csite.2021.101042
     notes: Journal article (3/4)  
     
