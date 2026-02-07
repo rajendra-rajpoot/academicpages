@@ -20,7 +20,7 @@ Creativity has always played a role in my work, from designing logos to building
 
 ## Research Interests
 
-<img src="./assets/img/20250622_193947.png" alt="My Research  Interests" width="300" style="margin-bottom: 40px;" />
+<img src="./assets/img/20250622_193947.png" alt="My Research  Interests" width="200" style="margin-bottom: 40px;" />
 - <p style="color: blue;">Geophysical fluid dynamics (GFD)</p> 
   - <p style="color: blue;">Waves-eddies interactions in the ocean</p>
 - <p style="color: blue;">Computational fluid dynamics</p>
@@ -83,6 +83,19 @@ Practical link: This process mirrors real signals — for example, digital audio
 ### From Time to Frequency: A Transform in Perspective
 <img src="./assets/img/fourier_transform_2D_3D.gif" alt="Animation 3" width="550" style="margin: 3px;" />
 This animation illustrates how a signal transforms between the time domain and the frequency domain, with the left plot showing a smooth blue waveform gradually giving way to red spikes that reveal its harmonic components, while the right 3D plot separates these two views along a Domain axis to highlight the transition; in signal processing this Fourier transform acts like a prism that decomposes oscillations into their hidden frequencies, and the same principle underpins fluid mechanics and turbulence research, where velocity fluctuations in a turbulent jet or vortex field are analyzed in the frequency domain to uncover energy spectra, identify dominant eddies, and distinguish between large-scale coherent structures and small-scale dissipative motions-whether diagnosing vibrations in engineering systems or studying energy cascades in geophysical flows, the ability to switch between time and frequency perspectives is what turns raw oscillations into physical insight.
+
+### Oscillating Pendulum: Motion and Phase Space  
+<img src="./assets/img/pendulum_phase_fbd_theta.gif" alt="Pendulum Animation" width="550" style="margin: 3px;" />  
+
+This animation illustrates the dynamics of a simple pendulum. On the right, the pendulum swings under the gravity, with the forces of tension (T) and weight (mg) acting on the bob, while the green arc shows the instantaneous angular displacement θ. On the left, the phase-space plot traces the pendulum’s trajectory, linking angular displacement (θ) with angular velocity (ω), and shows how position and velocity evolve together in time.  
+
+Governing equation of motion:  
+d²θ/dt² = −(g/ℓ)·sin(θ)  
+dθ/dt = ω  
+
+This equation is obtained by applying Newton’s second law in the tangential direction. Although both the tension (T) and the gravitational force (mg) act on the bob, the tension acts purely along the rod and therefore has no tangential component. Only the tangential component of gravity, mg·sin(θ), contributes to the angular acceleration. As a result, the tension does not appear explicitly in the final equation of motion.  The phase-space diagram (θ, ω) provides a compact representation of the dynamics. Each closed curve corresponds to a periodic motion of the pendulum. The pendulum slows down near the turning points, where ω = 0, and reaches its maximum speed near the bottom of the swing, where θ = 0.  
+
+Daily-life connection: the same physics explains the motion of a playground swing, the operation of a pendulum clock, and the gentle oscillation of hanging objects. Fluid mechanics analogies:  Bluff-body flows: flows past cylinders or buildings exhibit vortex shedding that evolves toward a nearly periodic, self-sustained oscillation (a limit cycle), analogous to the repetitive motion of a pendulum. Turbulence: large-scale coherent structures in wakes and jets can oscillate and exchange energy with smaller scales, in a manner reminiscent of the pendulum’s continuous exchange between potential and kinetic energy. Geophysical flows: many oceanic and atmospheric motions are governed by restoring forces (gravity and Coriolis). Internal gravity waves and inertial oscillations, for example, are oscillatory motions whose dynamics are mathematically analogous to those of a pendulum with an appropriate restoring force.  Thus, the simple pendulum provides a fundamental and physically transparent model for understanding oscillations and wave-like behaviour across a wide range of fluid-dynamical and geophysical systems.  
 
 
 <!-- - **Research Experience** (2022 - till date) 
