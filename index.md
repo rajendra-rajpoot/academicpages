@@ -6,13 +6,15 @@ layout: homepage
 
 ## About Me
 
-From 2022-2025, I worked as a Postdoctoral Fellow at TIFR, Bangalore, at the intersection of geophysical fluid dynamics and computational modeling. My research focused on waves-eddies interactions using pseudo-spectral methods, numerical modeling, turbulence analysis, and reproducible computational workflows.
+My research focuses on understanding fluid flow, heat transfer, and transport processes across engineering and environmental systems using computational methods. Through numerical simulations, scientific computing, and high-performance computing, I study problems ranging from thermal systems and flow control to ocean mixing and geophysical fluid dynamics.
+
+From 2022 to 2025, I worked as a Postdoctoral Fellow at TIFR, Bengaluru, at the intersection of geophysical fluid dynamics and computational modeling. My research focused on waves-eddies interactions using pseudo-spectral methods, numerical modeling, turbulence analysis, and reproducible computational workflows.
 
 I hold a Ph.D. in Mechanical Engineering from IIT Indore (2021), where I specialized in heat transfer and bluff-body flow control using computational fluid dynamics (CFD) <a href="./assets/img/bluff_bodies_flows_control_techniques.mp4" target="_blank">(🔊watch here)</a>. My doctoral research explored natural, forced, and mixed convection in complex geometries, employing methods such as the finite volume and lattice Boltzmann methods. Much of this work was carried out using in-house Fortran code developed for numerical simulations.
 
 My teaching career included appointments as Assistant Professor at Technocrats Institute of Technology (Excellence), Bhopal: first from 2011-2012, and later from 2013-2014. These roles gave me valuable exposure to academic life and strengthened my motivation to pursue doctoral research.
 
-I completed my M.Tech. in Thermal Engineering at MANIT Bhopal in 2010. My thesis focused on computational fluid dynamics (CFD) modeling of solar air heaters <a href="./assets/img/Solar_energy_presentation_low.mp4" target="_blank">(🔊 watch here)</a>, which introduced me to advanced numerical methods and renewable energy applications. The work later received citations, a recognition that meant a great deal to me as it marked the true beginning of my research career. From 2004-2008, I pursued a Bachelor of Engineering (B.E.), which deepened my interest in fluid mechanics and thermal sciences. 
+I completed my M.Tech. in Thermal Engineering at MANIT Bhopal in 2010. My thesis focused on computational fluid dynamics (CFD) modeling of solar air heaters <a href="./assets/img/Solar_energy_presentation_low.mp4" target="_blank">(🔊 watch here)</a>, which introduced me to advanced numerical methods and renewable energy applications. The work later received citations, a recognition that meant a great deal to me as it marked the true beginning of my research career. From 2004 to 2008, I pursued a Bachelor of Engineering (B.E.), which deepened my interest in fluid mechanics and thermal sciences. 
 
 My academic path spans doctoral and postdoctoral research, teaching, and technical mentoring. I have qualified for the GATE exam multiple times, contributed to peer-reviewed journals, and participated in national and international workshops. I am also working on high-performance scientific computing, including the parallelization of simulations using Python MPI.
 
@@ -34,15 +36,15 @@ Creativity has always played a role in my work, from designing logos to building
 
 ## Education
 
-- **Ph.D.** (November 2021) IIT Indore, Madhya Pradesh, India.
-- **M.Tech** (2010) NIT Bhopal, Madhya Pradesh, India.
+- **Ph.D.** (November 2021), IIT Indore, Madhya Pradesh, India.
+- **M.Tech** (2010), NIT Bhopal, Madhya Pradesh, India.
 - **B.E.** (2008), RGPV, Bhopal, Madhya Pradesh, India.
 
 ## Teaching/Research Experience
 
 - [x] **Teaching** (2011 - 2014).
 - [x] **Postdoctoral fellow** (2022 - 2025) TIFR, Bangalore, Karnataka, India.
-- [ ] Loading.... ✨
+- [ ] Loading... ✨✨
   
 {% include_relative _includes/publications.md %}
 
@@ -87,7 +89,7 @@ This animation illustrates how a signal transforms between the time domain and t
 ### Oscillating Pendulum: Motion and Phase Space  
 <img src="./assets/img/pendulum_phase_fbd_theta.gif" alt="Pendulum Animation" width="600" style="margin: 3px;" />  
 
-This animation illustrates the dynamics of a simple pendulum. On the right, the pendulum swings under the gravity, with the forces of tension (T) and weight (mg) acting on the bob, while the green arc shows the instantaneous angular displacement θ. On the left, the phase-space plot traces the pendulum’s trajectory, linking angular displacement (θ) with angular velocity (ω), and shows how position and velocity evolve together in time.  
+This animation illustrates the dynamics of a simple pendulum. On the right, the pendulum swings under gravity, with the forces of tension (T) and weight (mg) acting on the bob, while the green arc shows the instantaneous angular displacement θ. On the left, the phase-space plot traces the pendulum’s trajectory, linking angular displacement (θ) with angular velocity (ω), and shows how position and velocity evolve together in time.  
 
 Governing equation of motion:  
 d²θ/dt² = −(g/ℓ)·sin(θ)  
